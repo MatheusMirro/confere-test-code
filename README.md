@@ -14,5 +14,3 @@ Lembrando que ambas devem ser instaladas no mesmo diretório: /confere.
 Forte abraço!
 att, 
 Matheus.
-
-padding: 0 20px 50px;
